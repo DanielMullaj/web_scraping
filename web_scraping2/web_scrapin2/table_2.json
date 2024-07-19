@@ -1,0 +1,74 @@
+[
+  [
+    "",
+    "New cases",
+    "Change in",
+    "",
+    "",
+    "Change in new",
+    ""
+  ],
+  [
+    "WHO Region",
+    null,
+    null,
+    "Cumulative",
+    "New deaths in",
+    null,
+    "Cumulative"
+  ],
+  [
+    null,
+    "in last",
+    "new cases in",
+    null,
+    null,
+    "deaths in",
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    "cases (%)",
+    "last 7 days (%)",
+    null,
+    "deaths (%)"
+  ],
+  [
+    "",
+    "7 days (%)",
+    "last 7 days",
+    null,
+    null,
+    "last 7 days*",
+    null
+  ],
+  [
+    null,
+    null,
+    null,
+    "",
+    "",
+    null,
+    ""
+  ],
+  [
+    null,
+    "",
+    "",
+    null,
+    null,
+    "",
+    null
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+]

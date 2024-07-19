@@ -1,0 +1,62 @@
+[
+  [
+    "",
+    "New cases",
+    "",
+    "Cumulative cases",
+    "New deaths",
+    "",
+    "Cumulative deaths",
+    ""
+  ],
+  [
+    null,
+    null,
+    "Cumulative",
+    null,
+    null,
+    "Cumulative",
+    null,
+    null
+  ],
+  [
+    "Reporting Country/Territory/Area",
+    "in last 7",
+    null,
+    "per 1 million",
+    "in last 7",
+    null,
+    "per 1 million",
+    "Transmission classification"
+  ],
+  [
+    null,
+    null,
+    "cases",
+    null,
+    null,
+    "deaths:",
+    null,
+    null
+  ],
+  [
+    "",
+    "days",
+    null,
+    "population",
+    "days",
+    null,
+    "population",
+    ""
+  ],
+  [
+    null,
+    null,
+    "",
+    null,
+    null,
+    "",
+    null,
+    null
+  ]
+]
